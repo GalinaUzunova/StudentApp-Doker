@@ -1,3 +1,6 @@
 {
-    "git.untrackedChanges": "hidden"
+    "git.untrackedChanges": "hidden",
+    "scm.alwaysShowRepositories": true,
+    "scm.repositories.sortOrder": "name",
+    "scm.repositories.visible": 0
 }
